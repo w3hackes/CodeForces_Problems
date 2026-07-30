@@ -1,4 +1,4 @@
-# Omar and the Alternating Sum
+# Omar and the Alternating Sums
 
 * **ID:** 2246C
 * **Rating:** 1000   
