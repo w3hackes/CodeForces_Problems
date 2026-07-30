@@ -1,6 +1,7 @@
 # Omar and the Alternating Sum
 
-* **ID:** 2246C  
+* **ID:** 2246C
+* **Rating:** 1000   
 * **Date:** July 21, 2026  
 * **Status:** FFF  
 
